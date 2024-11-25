@@ -1,21 +1,28 @@
+
 body{
+
 color: darkred;
 background:blue 
 font-family: "Irish Grover", system-ui;
-margin: Оpx;
+margin: 0px;
 margin-bottom: 100px;
-headerf
-color: Dazure;
+}
+header{
+color: azure;
 border-bottom: Зpx solid;
 font-size: 32px;
 padding: 15px;
-h1f
+}
+h1{
 font-size: 35px;
-chamadaf
+}
+chamada{
 background: Ebrown;
 margin-top: 8opx;
 margin-bottom: 80px;
 display: flex;
 justify-content: center;
-chama -textol
-margin-right 5%;
+}
+chamada -texto{
+margin-right 5%;0 
+}
