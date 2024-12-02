@@ -17,12 +17,31 @@ h1{
 font-size: 35px;
 }
 chamada{
-background: Ebrown;
+background: brown;
 margin-top: 8opx;
 margin-bottom: 80px;
 display: flex;
 justify-content: center;
 }
-chamada -texto{
-margin-right 5%;0 
+.chamada -texto{
+margin-right 5%;
+}
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
+categoria-videio img{
+    height: 200px;
+    opacity: 0.5px;
+}
+.categoria-videos img:hover{
+    opacity: 1.0;
+    border: 3px solid wheat
+
 }
